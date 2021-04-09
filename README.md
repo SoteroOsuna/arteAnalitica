@@ -1,2 +1,2 @@
 # arteAnalitica
-Repositorio de datos y programas semana Tec TC1002S:Herramientas computacionales: El Arte de la Analítica. Enero 2021.
+Python program that implements the K-Means algorithm for interpreting raw data from Twitter about the COVID-19 pandemic.
